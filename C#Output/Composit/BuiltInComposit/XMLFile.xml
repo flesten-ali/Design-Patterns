@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<Directory name="dir1">
+		<File1 name ="dir1-file1">Wireless Mouse</File1>
+	</Directory>
+
+	<Directory name="dir2">
+		<File1 name ="dir2-file1">Keyboard</File1>
+		<File2 name ="dir2-file2">Electronics</File2>
+	</Directory>
+
+	<Directory name="dir3" />
+</root>
